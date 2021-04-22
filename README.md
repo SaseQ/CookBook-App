@@ -1,8 +1,16 @@
 # CookBook-App
-# General
+## General
 
+## Properties
+```
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.driver-class-name=
+spring.jpa.hibernate.ddl-auto=
+```
 
-# Technologies
+## Technologies
 <ul>
   <li>Java 8</li>
   <li>Maven</li>
