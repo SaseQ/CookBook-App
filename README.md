@@ -4,7 +4,7 @@ Private working app for my grandmom.
 
 The application is used to collect recipes.
 
-It helps you to keep frequently used recipes in one place.
+It helps to keep frequently used recipes in one place.
 
 ## Properties
 ```
